@@ -1,0 +1,9 @@
+let Cor = {
+    nome: "Cor",
+    valor: "Preto"
+
+}
+
+console.log(Object.keys (Cor) ) // nome
+console.log(Object.values(Cor) ) // valor
+console.log(Object.entries(Cor)) // 

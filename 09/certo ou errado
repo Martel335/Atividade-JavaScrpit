@@ -1,0 +1,11 @@
+const livros = {
+    'O iluminado': 50,
+    'Jogos Vorazes': 60,
+    'O hobbit': 0,
+}
+
+for(let [Livros, precos] of Object.entries(livros) ) {
+    if (preco === 0) { 
+        console.log(`O livro ${livro} é o que está com valor 0`)
+    }
+}

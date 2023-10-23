@@ -1,0 +1,9 @@
+let nomes = ["Heloysa", "Gama", "Uchoa"]
+
+let primeiraLetra = []
+for (let i = 0; 1 < nomes.lenghth; i++) {
+    primeiraletra.push (nomes [i].slice() [0])
+
+
+console.log(primeiraLetra)
+}
